@@ -14,7 +14,6 @@ export function Step1() {
 
   return (
     <div className="space-y-4">
-      {/* First and Last Name in same row */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Input
           label="First Name"
