@@ -4,7 +4,7 @@ A production-ready multi-step giveaway form built with Next.js, TypeScript, and 
 
 ## Live Demo
 
-[View Live Application](https://thrivelab-giveaway-test-git-main-fersycodes-projects.vercel.app/giveaway)
+https://thrivelab-giveaway-test-e79iv2ljh-fersycodes-projects.vercel.app?_vercel_share=Nga2a7UAAbDnpDJFEpPKkPJN422tT026
 
 ## Features
 
